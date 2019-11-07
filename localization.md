@@ -41,7 +41,7 @@ Add index method of `LocalizationController` class as below code in `app/Http/Lo
 ```php
 public function index($lang)
 {
-    Session::put('applocale', $lang);
+    Session::put('locale', $lang);
     return back();
 }
 ```
@@ -66,7 +66,7 @@ And write down below code to change Session get language to every route
 ```php
 public function handle($request, Closure $next)
 {
-    if( App::setLocale( Session::get('applocale') );
+    if( App::setLocale( Session::get('locale') );
     } else {
     App::setLocale( Config::get('app.fallback_locale') );
     }
