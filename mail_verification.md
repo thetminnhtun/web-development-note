@@ -18,11 +18,11 @@ Laravel တွင် Gmail ကို အသုံးပြု၍ Mail ပို�
 ပထမဦးစွာ Brower တွင် Gmail Login လုပ်ပါ။ အောက်ပါ ပုံတွင် ပြထားသည့်အတိုင်း
 `Manage your Google Account` ကိုနှိပ်ပါ။
 
-<img src="./images/1_less_secure_option.png" />
+<img src="./images/mail_verification/1_less_secure_option.png" />
 
 `Security` ကို ရွေး၍ `Less secure app access` ကို `On` ပေးပါ။
 
-<img src="./images/2_less_secure_option.png" />
+<img src="./images/mail_verification/2_less_secure_option.png" />
 
 <h3 id="installation_laravel">Installation laravel</h3>
 
