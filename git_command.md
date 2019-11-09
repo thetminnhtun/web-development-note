@@ -84,3 +84,5 @@ git repo တွင် တင်ထားသော project ကို clone လု
 git pull origin master
 ```
 git repo ပေါ်မှ master branch ကို pull လုပ်ရတွင်သုံးသည်။
+
+More Detail -> [atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
