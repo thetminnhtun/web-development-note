@@ -63,7 +63,7 @@ apt install curl php-cli php-mbstring git unzip
 ```
 For Laravel and composer
 ```
-apt install php php-curl php-common php-cli php-mysql php-mbstring php-fpm php-xml php-zip -y
+apt install php php-curl php-common php-cli php-mysql php-mbstring php-fpm php-bcmath php-xml php-zip -y
 ```
 Testing
 ```
