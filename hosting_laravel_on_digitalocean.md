@@ -51,9 +51,17 @@ systemctl restart nginx
 ### PHP 
 
 ```
-apt install php 
+apt install php-fpm php-mysql
 ```
-For Laravel
+Laravel
+```
+apt install php-mbstring php-xml php-bcmath 
+```
+Composer
+```
+apt install curl php-cli php-mbstring git unzip
+```
+For Laravel and composer
 ```
 apt install php php-curl php-common php-cli php-mysql php-mbstring php-fpm php-xml php-zip -y
 ```
@@ -253,13 +261,3 @@ systemctl reload nginx
 <a herf="https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04" target="_blink">
 DigitalOcean</a>
 
-//
-php-fpm php-mysql
-php-cli
-
-// laravel
-apt install php-mbstring php-xml php-bcmath 
-
-
-// composer
-apt install curl php-cli php-mbstring git unzip
