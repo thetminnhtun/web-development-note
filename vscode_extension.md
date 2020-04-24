@@ -21,7 +21,7 @@
 ## CSS
 
 - css-auto-prefix
-- IntelliSense for C
+- IntelliSense for CSS
 - Live Sass Compiler
 
 ## JavaScript
