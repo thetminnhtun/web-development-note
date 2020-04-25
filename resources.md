@@ -10,6 +10,10 @@
 - https://www.flaticon.com/
 - https://www.iconfinder.com/
 
+## Color
+
+- [colorsinspo](https://colorsinspo.com/)
+
 
 ## Slider
 - https://www.magictoolbox.com/magicscroll/integration/
