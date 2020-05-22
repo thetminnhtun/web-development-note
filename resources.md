@@ -17,3 +17,6 @@
 
 ## Slider
 - https://www.magictoolbox.com/magicscroll/integration/
+
+## Zoom
+- https://medium-zoom.francoischalifour.com/
