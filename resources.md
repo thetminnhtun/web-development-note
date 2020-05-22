@@ -20,3 +20,5 @@
 
 ## Zoom
 - https://medium-zoom.francoischalifour.com/
+- https://bashooka.com/coding/21-zoom-javascript-libraries-for-web-mobile/
+- https://andersdjohnson.github.io/magnificent.js/examples/demo/
