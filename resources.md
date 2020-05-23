@@ -22,3 +22,5 @@
 - https://medium-zoom.francoischalifour.com/
 - https://bashooka.com/coding/21-zoom-javascript-libraries-for-web-mobile/
 - https://andersdjohnson.github.io/magnificent.js/examples/demo/
+- https://www.cssscript.com/demo/drag-move-mouse-wheel-zoom/
+- https://www.cssscript.com/vanilla-js-library-for-image-zoom-and-pan/
