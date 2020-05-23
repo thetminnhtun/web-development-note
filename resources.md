@@ -25,3 +25,4 @@
 - https://www.cssscript.com/demo/drag-move-mouse-wheel-zoom/
 - https://www.cssscript.com/vanilla-js-library-for-image-zoom-and-pan/
 - https://www.jqueryscript.net/demo/Touch-enabled-Image-Zooming-Panning-Plugin-jQuery-imgViewer2/
+- https://www.jqueryscript.net/demo/jQuery-Plugin-for-Image-Zoom-Rotation-Plugin-iviewer/test/
