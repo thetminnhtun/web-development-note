@@ -85,4 +85,26 @@ git pull origin master
 ```
 git repo ပေါ်မှ master branch ကို pull လုပ်ရတွင်သုံးသည်။
 
+```
+git config --global alias.s status
+
+git s
+```
+git alias ပြုလုပ်ရန် ဖြစ်သည်။
+
+```
+git config --global --unset alias.s
+
+```
+git alias ပြန်ဖျက်ရန် ဖြစ်သည်။
+
+```
+git commit --amend 
+
+git commit --amend -m "an updated commit message"
+
+```
+နောက်ဆုံး commit 
+
+
 More Detail -> [atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
