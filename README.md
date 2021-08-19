@@ -14,6 +14,7 @@
 ## System
 
 - [Git Command](./git_command.md)
+- [Making Alias in the Git Bash for the window](./making_alias_in_the_git_bash_for_the_window.md)
 - [Linux Essential Command](./linux_essential_command.md)
 - [Docker](./docker.md)
 
