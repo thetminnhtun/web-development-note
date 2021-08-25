@@ -106,5 +106,19 @@ git commit --amend -m "an updated commit message"
 ```
 နောက်ဆုံး commit 
 
+```
+git reset --soft <commit ID>
+```
+နောက်ဆုံး commit မလုပ်ချင်အခြေကိုပြန်လည်ရယူရန်သုံးသည်။
+
+```
+git reset --hard <commit ID>
+```
+နောက်ဆုံး commit ကိုဖျက်ရန် အသုံးပြုသည်။
+
+```
+git branch -M <new branch name>
+```
+လက်ရှိ branch ကို အမည်ပြောင်းရန် အသုံးပြုသည်။
 
 More Detail -> [atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)

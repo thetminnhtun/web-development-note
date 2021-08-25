@@ -75,3 +75,4 @@ nano file.txt
 vim file.txt
 ```
 `vim` Text Editor ကို အသုံးပြုပြီး `file.txt` ကိုပြင်ရန်အသုံးပြုသည်။
+see more > [Vim commands](https://gist.github.com/thetminnhtun/b4d8be0f0056bdfbb2cee202c5b0c36b)
