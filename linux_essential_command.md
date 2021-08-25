@@ -66,7 +66,12 @@ mv [file path that you want to move] [file path that you want to paste]
 `mv` Move `File` ကို move လုပ်ရန်သုံးသည်။ `cut` နှင့် ဆင်တူသည်။
 `File` or `Folder` အမည်ပြောင်းရာတွင်လည်းသုံးနိုင်သည်။
 
-<br>
-<br>
+```
+nano file.txt
+```
+`nano` Text Editor ကို အသုံးပြုပြီး `file.txt` ကိုပြင်ရန်အသုံးပြုသည်။
 
-### Not finished yet. Comming soon....
+```
+vim file.txt
+```
+`vim` Text Editor ကို အသုံးပြုပြီး `file.txt` ကိုပြင်ရန်အသုံးပြုသည်။
