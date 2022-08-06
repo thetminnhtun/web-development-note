@@ -191,6 +191,15 @@ run composer after finished installation
 ```
 composer
 ```
+### Node & NPM
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+source ~/.bashrc
+nvm list-remote
+nvm install v14.17.6
+```
+
 
 ### Laravel
 
