@@ -194,6 +194,11 @@ composer
 ### Node & NPM
 
 ```
+# Node
+curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+sudo apt-get install -y nodejs 
+
+# NVM
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 source ~/.bashrc
 nvm list-remote
